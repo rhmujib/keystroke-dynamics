@@ -1,0 +1,25 @@
+{
+    "session": {
+      "duration_minutes": 5,
+      "min_keystrokes": 20
+    },
+    "output": {
+      "json_path": "reports/keystroke_data.json",
+      "html_path": "reports/keystroke_report.html"
+    },
+    "notifications": {
+      "enabled": false,
+      "telegram": {
+        "bot_token": "",
+        "chat_id": ""
+      },
+      "discord": {
+        "webhook_url": ""
+      }
+    },
+    "privacy": {
+      "log_actual_keys": true,
+      "anonymize_data": false,
+      "save_typed_text": true
+    }
+  }

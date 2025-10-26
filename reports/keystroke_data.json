@@ -1,0 +1,3024 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-26T18:35:41.979355",
+    "tool_version": "1.0.0",
+    "privacy_settings": {
+      "log_actual_keys": true,
+      "anonymize_data": false,
+      "save_typed_text": true
+    }
+  },
+  "analysis": {
+    "timestamp": "2025-10-26T18:35:41.895437",
+    "total_keystrokes": 428,
+    "session_duration": 167.98134350776672,
+    "avg_interval": 0.393398930931538,
+    "median_interval": 0.14652466773986816,
+    "std_interval": 1.6833431177095228,
+    "min_interval": 0.008277177810668945,
+    "max_interval": 26.342656135559082,
+    "typing_speed": 30.57482392241096,
+    "keystrokes_per_second": 2.5479019935342473,
+    "rhythm_consistency": 0,
+    "burst_typing_detected": false
+  },
+  "raw_data": [
+    {
+      "timestamp": 1761485573.8682666,
+      "key": "[shift]",
+      "readable_key": "[shift]",
+      "interval": 0,
+      "elapsed_time": 0.0
+    },
+    {
+      "timestamp": 1761485573.9841037,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.11583709716796875,
+      "elapsed_time": 0.11583709716796875
+    },
+    {
+      "timestamp": 1761485574.0741408,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.09003710746765137,
+      "elapsed_time": 0.20587420463562012
+    },
+    {
+      "timestamp": 1761485574.1752806,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.10113978385925293,
+      "elapsed_time": 0.30701398849487305
+    },
+    {
+      "timestamp": 1761485574.320494,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.14521336555480957,
+      "elapsed_time": 0.4522273540496826
+    },
+    {
+      "timestamp": 1761485574.4622052,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.14171123504638672,
+      "elapsed_time": 0.5939385890960693
+    },
+    {
+      "timestamp": 1761485574.5670075,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.10480237007141113,
+      "elapsed_time": 0.6987409591674805
+    },
+    {
+      "timestamp": 1761485574.6773026,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.11029505729675293,
+      "elapsed_time": 0.8090360164642334
+    },
+    {
+      "timestamp": 1761485575.140696,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.4633934497833252,
+      "elapsed_time": 1.2724294662475586
+    },
+    {
+      "timestamp": 1761485575.2413485,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.10065245628356934,
+      "elapsed_time": 1.373081922531128
+    },
+    {
+      "timestamp": 1761485575.3415678,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.1002192497253418,
+      "elapsed_time": 1.4733011722564697
+    },
+    {
+      "timestamp": 1761485575.4378803,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.0963125228881836,
+      "elapsed_time": 1.5696136951446533
+    },
+    {
+      "timestamp": 1761485575.5131617,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.07528138160705566,
+      "elapsed_time": 1.644895076751709
+    },
+    {
+      "timestamp": 1761485575.632539,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.11937737464904785,
+      "elapsed_time": 1.7642724514007568
+    },
+    {
+      "timestamp": 1761485575.7386386,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.10609960556030273,
+      "elapsed_time": 1.8703720569610596
+    },
+    {
+      "timestamp": 1761485575.8297493,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.0911107063293457,
+      "elapsed_time": 1.9614827632904053
+    },
+    {
+      "timestamp": 1761485576.1721125,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.3423631191253662,
+      "elapsed_time": 2.3038458824157715
+    },
+    {
+      "timestamp": 1761485576.3579032,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.1857907772064209,
+      "elapsed_time": 2.4896366596221924
+    },
+    {
+      "timestamp": 1761485576.494122,
+      "key": "j",
+      "readable_key": "j",
+      "interval": 0.13621878623962402,
+      "elapsed_time": 2.6258554458618164
+    },
+    {
+      "timestamp": 1761485576.60378,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.10965800285339355,
+      "elapsed_time": 2.73551344871521
+    },
+    {
+      "timestamp": 1761485576.730491,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.1267108917236328,
+      "elapsed_time": 2.8622243404388428
+    },
+    {
+      "timestamp": 1761485576.7813847,
+      "key": "b",
+      "readable_key": "b",
+      "interval": 0.05089378356933594,
+      "elapsed_time": 2.9131181240081787
+    },
+    {
+      "timestamp": 1761485576.9212124,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.13982772827148438,
+      "elapsed_time": 3.052945852279663
+    },
+    {
+      "timestamp": 1761485577.1133175,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.19210505485534668,
+      "elapsed_time": 3.2450509071350098
+    },
+    {
+      "timestamp": 1761485577.2096872,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.09636974334716797,
+      "elapsed_time": 3.3414206504821777
+    },
+    {
+      "timestamp": 1761485577.319951,
+      "key": "d",
+      "readable_key": "d",
+      "interval": 0.11026382446289062,
+      "elapsed_time": 3.4516844749450684
+    },
+    {
+      "timestamp": 1761485577.3851814,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.0652303695678711,
+      "elapsed_time": 3.5169148445129395
+    },
+    {
+      "timestamp": 1761485577.586155,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.2009735107421875,
+      "elapsed_time": 3.717888355255127
+    },
+    {
+      "timestamp": 1761485577.6974907,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.11133575439453125,
+      "elapsed_time": 3.829224109649658
+    },
+    {
+      "timestamp": 1761485577.8280628,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.13057208061218262,
+      "elapsed_time": 3.959796190261841
+    },
+    {
+      "timestamp": 1761485577.9030633,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.07500052452087402,
+      "elapsed_time": 4.034796714782715
+    },
+    {
+      "timestamp": 1761485578.2508252,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.347761869430542,
+      "elapsed_time": 4.382558584213257
+    },
+    {
+      "timestamp": 1761485578.3836668,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.1328415870666504,
+      "elapsed_time": 4.515400171279907
+    },
+    {
+      "timestamp": 1761485578.495021,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.11135435104370117,
+      "elapsed_time": 4.626754522323608
+    },
+    {
+      "timestamp": 1761485578.5215583,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.026537179946899414,
+      "elapsed_time": 4.653291702270508
+    },
+    {
+      "timestamp": 1761485578.6472468,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.1256885528564453,
+      "elapsed_time": 4.778980255126953
+    },
+    {
+      "timestamp": 1761485578.7375467,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.09029984474182129,
+      "elapsed_time": 4.869280099868774
+    },
+    {
+      "timestamp": 1761485578.862009,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.12446236610412598,
+      "elapsed_time": 4.9937424659729
+    },
+    {
+      "timestamp": 1761485578.962326,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.10031700134277344,
+      "elapsed_time": 5.094059467315674
+    },
+    {
+      "timestamp": 1761485579.043105,
+      "key": "p",
+      "readable_key": "p",
+      "interval": 0.08077883720397949,
+      "elapsed_time": 5.174838304519653
+    },
+    {
+      "timestamp": 1761485579.565812,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.5227072238922119,
+      "elapsed_time": 5.697545528411865
+    },
+    {
+      "timestamp": 1761485579.7164903,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.15067815780639648,
+      "elapsed_time": 5.848223686218262
+    },
+    {
+      "timestamp": 1761485579.947584,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.2310936450958252,
+      "elapsed_time": 6.079317331314087
+    },
+    {
+      "timestamp": 1761485580.33096,
+      "key": "p",
+      "readable_key": "p",
+      "interval": 0.3833761215209961,
+      "elapsed_time": 6.462693452835083
+    },
+    {
+      "timestamp": 1761485580.5161643,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.18520426750183105,
+      "elapsed_time": 6.647897720336914
+    },
+    {
+      "timestamp": 1761485580.6414523,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.1252880096435547,
+      "elapsed_time": 6.773185729980469
+    },
+    {
+      "timestamp": 1761485580.8121948,
+      "key": "g",
+      "readable_key": "g",
+      "interval": 0.17074251174926758,
+      "elapsed_time": 6.943928241729736
+    },
+    {
+      "timestamp": 1761485580.9075484,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.09535360336303711,
+      "elapsed_time": 7.039281845092773
+    },
+    {
+      "timestamp": 1761485581.0756023,
+      "key": "f",
+      "readable_key": "f",
+      "interval": 0.16805386543273926,
+      "elapsed_time": 7.207335710525513
+    },
+    {
+      "timestamp": 1761485581.1504314,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.0748291015625,
+      "elapsed_time": 7.282164812088013
+    },
+    {
+      "timestamp": 1761485581.2612352,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.11080384254455566,
+      "elapsed_time": 7.392968654632568
+    },
+    {
+      "timestamp": 1761485581.2698338,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.008598566055297852,
+      "elapsed_time": 7.401567220687866
+    },
+    {
+      "timestamp": 1761485581.4383445,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.16851067543029785,
+      "elapsed_time": 7.570077896118164
+    },
+    {
+      "timestamp": 1761485581.5838544,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.14550995826721191,
+      "elapsed_time": 7.715587854385376
+    },
+    {
+      "timestamp": 1761485581.6878898,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.1040353775024414,
+      "elapsed_time": 7.819623231887817
+    },
+    {
+      "timestamp": 1761485581.7645195,
+      "key": "k",
+      "readable_key": "k",
+      "interval": 0.076629638671875,
+      "elapsed_time": 7.896252870559692
+    },
+    {
+      "timestamp": 1761485581.8655899,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.10107040405273438,
+      "elapsed_time": 7.997323274612427
+    },
+    {
+      "timestamp": 1761485581.9811723,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.11558246612548828,
+      "elapsed_time": 8.112905740737915
+    },
+    {
+      "timestamp": 1761485582.1359308,
+      "key": "l",
+      "readable_key": "l",
+      "interval": 0.15475845336914062,
+      "elapsed_time": 8.267664194107056
+    },
+    {
+      "timestamp": 1761485582.2773893,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.14145851135253906,
+      "elapsed_time": 8.409122705459595
+    },
+    {
+      "timestamp": 1761485582.3531623,
+      "key": "d",
+      "readable_key": "d",
+      "interval": 0.07577300071716309,
+      "elapsed_time": 8.484895706176758
+    },
+    {
+      "timestamp": 1761485582.8715646,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.5184023380279541,
+      "elapsed_time": 9.003298044204712
+    },
+    {
+      "timestamp": 1761485582.9821334,
+      "key": "g",
+      "readable_key": "g",
+      "interval": 0.11056876182556152,
+      "elapsed_time": 9.113866806030273
+    },
+    {
+      "timestamp": 1761485583.1426003,
+      "key": "g",
+      "readable_key": "g",
+      "interval": 0.16046690940856934,
+      "elapsed_time": 9.274333715438843
+    },
+    {
+      "timestamp": 1761485583.273257,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.13065671920776367,
+      "elapsed_time": 9.404990434646606
+    },
+    {
+      "timestamp": 1761485583.353685,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.08042788505554199,
+      "elapsed_time": 9.485418319702148
+    },
+    {
+      "timestamp": 1761485583.4941552,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.14047026634216309,
+      "elapsed_time": 9.625888586044312
+    },
+    {
+      "timestamp": 1761485584.1417902,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.6476349830627441,
+      "elapsed_time": 10.273523569107056
+    },
+    {
+      "timestamp": 1761485584.373498,
+      "key": ".",
+      "readable_key": ".",
+      "interval": 0.23170781135559082,
+      "elapsed_time": 10.505231380462646
+    },
+    {
+      "timestamp": 1761485584.5944698,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.22097182273864746,
+      "elapsed_time": 10.726203203201294
+    },
+    {
+      "timestamp": 1761485584.6755588,
+      "key": "[shift]",
+      "readable_key": "[shift]",
+      "interval": 0.08108901977539062,
+      "elapsed_time": 10.807292222976685
+    },
+    {
+      "timestamp": 1761485584.8057094,
+      "key": "T",
+      "readable_key": "T",
+      "interval": 0.13015055656433105,
+      "elapsed_time": 10.937442779541016
+    },
+    {
+      "timestamp": 1761485584.8301444,
+      "key": "H",
+      "readable_key": "H",
+      "interval": 0.024435043334960938,
+      "elapsed_time": 10.961877822875977
+    },
+    {
+      "timestamp": 1761485584.920654,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.09050965309143066,
+      "elapsed_time": 11.052387475967407
+    },
+    {
+      "timestamp": 1761485585.0671878,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.14653372764587402,
+      "elapsed_time": 11.198921203613281
+    },
+    {
+      "timestamp": 1761485585.222576,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.15538811683654785,
+      "elapsed_time": 11.354309320449829
+    },
+    {
+      "timestamp": 1761485585.3338165,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.11124062538146973,
+      "elapsed_time": 11.465549945831299
+    },
+    {
+      "timestamp": 1761485585.4591584,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.12534189224243164,
+      "elapsed_time": 11.59089183807373
+    },
+    {
+      "timestamp": 1761485585.489165,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.03000664710998535,
+      "elapsed_time": 11.620898485183716
+    },
+    {
+      "timestamp": 1761485585.6608593,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.17169427871704102,
+      "elapsed_time": 11.792592763900757
+    },
+    {
+      "timestamp": 1761485586.2739697,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.6131103038787842,
+      "elapsed_time": 12.405703067779541
+    },
+    {
+      "timestamp": 1761485586.3841233,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.1101536750793457,
+      "elapsed_time": 12.515856742858887
+    },
+    {
+      "timestamp": 1761485586.5257547,
+      "key": "l",
+      "readable_key": "l",
+      "interval": 0.1416313648223877,
+      "elapsed_time": 12.657488107681274
+    },
+    {
+      "timestamp": 1761485586.6326165,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.10686182975769043,
+      "elapsed_time": 12.764349937438965
+    },
+    {
+      "timestamp": 1761485586.7915184,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.15890192985534668,
+      "elapsed_time": 12.923251867294312
+    },
+    {
+      "timestamp": 1761485586.8978329,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.10631442070007324,
+      "elapsed_time": 13.029566287994385
+    },
+    {
+      "timestamp": 1761485586.997439,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.09960603713989258,
+      "elapsed_time": 13.129172325134277
+    },
+    {
+      "timestamp": 1761485587.0885832,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.09114432334899902,
+      "elapsed_time": 13.220316648483276
+    },
+    {
+      "timestamp": 1761485587.2290027,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.14041948318481445,
+      "elapsed_time": 13.36073613166809
+    },
+    {
+      "timestamp": 1761485587.487148,
+      "key": "p",
+      "readable_key": "p",
+      "interval": 0.2581453323364258,
+      "elapsed_time": 13.618881464004517
+    },
+    {
+      "timestamp": 1761485587.9176667,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.43051862716674805,
+      "elapsed_time": 14.049400091171265
+    },
+    {
+      "timestamp": 1761485588.0343447,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.11667799949645996,
+      "elapsed_time": 14.166078090667725
+    },
+    {
+      "timestamp": 1761485588.1808693,
+      "key": "j",
+      "readable_key": "j",
+      "interval": 0.14652466773986816,
+      "elapsed_time": 14.312602758407593
+    },
+    {
+      "timestamp": 1761485588.3055117,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.12464237213134766,
+      "elapsed_time": 14.43724513053894
+    },
+    {
+      "timestamp": 1761485588.5973754,
+      "key": "x",
+      "readable_key": "x",
+      "interval": 0.29186367988586426,
+      "elapsed_time": 14.729108810424805
+    },
+    {
+      "timestamp": 1761485589.0611641,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.4637887477874756,
+      "elapsed_time": 15.19289755821228
+    },
+    {
+      "timestamp": 1761485589.2627635,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.2015993595123291,
+      "elapsed_time": 15.39449691772461
+    },
+    {
+      "timestamp": 1761485589.8303068,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.5675432682037354,
+      "elapsed_time": 15.962040185928345
+    },
+    {
+      "timestamp": 1761485590.279216,
+      "key": "c",
+      "readable_key": "c",
+      "interval": 0.44890928268432617,
+      "elapsed_time": 16.41094946861267
+    },
+    {
+      "timestamp": 1761485590.6749475,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.39573144912719727,
+      "elapsed_time": 16.806680917739868
+    },
+    {
+      "timestamp": 1761485590.9505339,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.2755863666534424,
+      "elapsed_time": 17.08226728439331
+    },
+    {
+      "timestamp": 1761485591.3981543,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.4476203918457031,
+      "elapsed_time": 17.529887676239014
+    },
+    {
+      "timestamp": 1761485591.5058987,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.10774445533752441,
+      "elapsed_time": 17.637632131576538
+    },
+    {
+      "timestamp": 1761485591.5967324,
+      "key": "d",
+      "readable_key": "d",
+      "interval": 0.09083366394042969,
+      "elapsed_time": 17.728465795516968
+    },
+    {
+      "timestamp": 1761485591.6709461,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.07421374320983887,
+      "elapsed_time": 17.802679538726807
+    },
+    {
+      "timestamp": 1761485591.8014712,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.1305251121520996,
+      "elapsed_time": 17.933204650878906
+    },
+    {
+      "timestamp": 1761485591.9963238,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.19485259056091309,
+      "elapsed_time": 18.12805724143982
+    },
+    {
+      "timestamp": 1761485592.5506246,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.5543007850646973,
+      "elapsed_time": 18.682358026504517
+    },
+    {
+      "timestamp": 1761485592.6688917,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.11826705932617188,
+      "elapsed_time": 18.80062508583069
+    },
+    {
+      "timestamp": 1761485592.821172,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.15228033065795898,
+      "elapsed_time": 18.952905416488647
+    },
+    {
+      "timestamp": 1761485593.1990876,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.377915620803833,
+      "elapsed_time": 19.33082103729248
+    },
+    {
+      "timestamp": 1761485593.2661293,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.06704163551330566,
+      "elapsed_time": 19.397862672805786
+    },
+    {
+      "timestamp": 1761485593.3904343,
+      "key": "p",
+      "readable_key": "p",
+      "interval": 0.12430500984191895,
+      "elapsed_time": 19.522167682647705
+    },
+    {
+      "timestamp": 1761485593.5809338,
+      "key": "p",
+      "readable_key": "p",
+      "interval": 0.19049954414367676,
+      "elapsed_time": 19.712667226791382
+    },
+    {
+      "timestamp": 1761485594.1489797,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.5680458545684814,
+      "elapsed_time": 20.280713081359863
+    },
+    {
+      "timestamp": 1761485594.3251343,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.17615461349487305,
+      "elapsed_time": 20.456867694854736
+    },
+    {
+      "timestamp": 1761485594.4144287,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.08929443359375,
+      "elapsed_time": 20.546162128448486
+    },
+    {
+      "timestamp": 1761485594.4853208,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.0708920955657959,
+      "elapsed_time": 20.617054224014282
+    },
+    {
+      "timestamp": 1761485594.571242,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.0859212875366211,
+      "elapsed_time": 20.702975511550903
+    },
+    {
+      "timestamp": 1761485594.6658134,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.09457135200500488,
+      "elapsed_time": 20.797546863555908
+    },
+    {
+      "timestamp": 1761485594.771307,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.10549354553222656,
+      "elapsed_time": 20.903040409088135
+    },
+    {
+      "timestamp": 1761485594.8633907,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.09208369255065918,
+      "elapsed_time": 20.995124101638794
+    },
+    {
+      "timestamp": 1761485594.9440567,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.08066606521606445,
+      "elapsed_time": 21.07579016685486
+    },
+    {
+      "timestamp": 1761485594.952334,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.008277177810668945,
+      "elapsed_time": 21.084067344665527
+    },
+    {
+      "timestamp": 1761485595.0942347,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.14190077781677246,
+      "elapsed_time": 21.2259681224823
+    },
+    {
+      "timestamp": 1761485595.19989,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.10565519332885742,
+      "elapsed_time": 21.331623315811157
+    },
+    {
+      "timestamp": 1761485595.289275,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.0893850326538086,
+      "elapsed_time": 21.421008348464966
+    },
+    {
+      "timestamp": 1761485595.3851302,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.0958552360534668,
+      "elapsed_time": 21.516863584518433
+    },
+    {
+      "timestamp": 1761485595.8076954,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.422565221786499,
+      "elapsed_time": 21.93942880630493
+    },
+    {
+      "timestamp": 1761485595.9378462,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.13015079498291016,
+      "elapsed_time": 22.069579601287842
+    },
+    {
+      "timestamp": 1761485596.019232,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.08138585090637207,
+      "elapsed_time": 22.150965452194214
+    },
+    {
+      "timestamp": 1761485596.1541445,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.13491249084472656,
+      "elapsed_time": 22.28587794303894
+    },
+    {
+      "timestamp": 1761485596.275513,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.121368408203125,
+      "elapsed_time": 22.407246351242065
+    },
+    {
+      "timestamp": 1761485596.4755993,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.20008635520935059,
+      "elapsed_time": 22.607332706451416
+    },
+    {
+      "timestamp": 1761485596.652926,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.17732667922973633,
+      "elapsed_time": 22.784659385681152
+    },
+    {
+      "timestamp": 1761485596.8986604,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.24573445320129395,
+      "elapsed_time": 23.030393838882446
+    },
+    {
+      "timestamp": 1761485597.0396755,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.14101505279541016,
+      "elapsed_time": 23.171408891677856
+    },
+    {
+      "timestamp": 1761485597.2208226,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.18114709854125977,
+      "elapsed_time": 23.352555990219116
+    },
+    {
+      "timestamp": 1761485597.3659518,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.14512920379638672,
+      "elapsed_time": 23.497685194015503
+    },
+    {
+      "timestamp": 1761485597.5066724,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.14072060585021973,
+      "elapsed_time": 23.638405799865723
+    },
+    {
+      "timestamp": 1761485597.6125736,
+      "key": "w",
+      "readable_key": "w",
+      "interval": 0.10590124130249023,
+      "elapsed_time": 23.744307041168213
+    },
+    {
+      "timestamp": 1761485598.5187252,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.906151533126831,
+      "elapsed_time": 24.650458574295044
+    },
+    {
+      "timestamp": 1761485598.719918,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.20119285583496094,
+      "elapsed_time": 24.851651430130005
+    },
+    {
+      "timestamp": 1761485598.8252347,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.1053166389465332,
+      "elapsed_time": 24.956968069076538
+    },
+    {
+      "timestamp": 1761485598.9856505,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.1604158878326416,
+      "elapsed_time": 25.11738395690918
+    },
+    {
+      "timestamp": 1761485599.100896,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.11524534225463867,
+      "elapsed_time": 25.23262929916382
+    },
+    {
+      "timestamp": 1761485599.2424812,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.1415853500366211,
+      "elapsed_time": 25.37421464920044
+    },
+    {
+      "timestamp": 1761485599.3679478,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.12546658515930176,
+      "elapsed_time": 25.49968123435974
+    },
+    {
+      "timestamp": 1761485599.4542227,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.08627486228942871,
+      "elapsed_time": 25.58595609664917
+    },
+    {
+      "timestamp": 1761485600.0167022,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.5624794960021973,
+      "elapsed_time": 26.148435592651367
+    },
+    {
+      "timestamp": 1761485600.1478379,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.1311357021331787,
+      "elapsed_time": 26.279571294784546
+    },
+    {
+      "timestamp": 1761485600.2331617,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.08532381057739258,
+      "elapsed_time": 26.36489510536194
+    },
+    {
+      "timestamp": 1761485600.589868,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.3567063808441162,
+      "elapsed_time": 26.721601486206055
+    },
+    {
+      "timestamp": 1761485601.1529207,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.5630526542663574,
+      "elapsed_time": 27.284654140472412
+    },
+    {
+      "timestamp": 1761485601.2488694,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.09594869613647461,
+      "elapsed_time": 27.380602836608887
+    },
+    {
+      "timestamp": 1761485601.3346362,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.08576679229736328,
+      "elapsed_time": 27.46636962890625
+    },
+    {
+      "timestamp": 1761485601.4749181,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.14028191566467285,
+      "elapsed_time": 27.606651544570923
+    },
+    {
+      "timestamp": 1761485601.650557,
+      "key": "g",
+      "readable_key": "g",
+      "interval": 0.17563891410827637,
+      "elapsed_time": 27.7822904586792
+    },
+    {
+      "timestamp": 1761485601.741751,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.09119391441345215,
+      "elapsed_time": 27.87348437309265
+    },
+    {
+      "timestamp": 1761485601.942016,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.20026493072509766,
+      "elapsed_time": 28.07374930381775
+    },
+    {
+      "timestamp": 1761485602.0374725,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.09545660018920898,
+      "elapsed_time": 28.169205904006958
+    },
+    {
+      "timestamp": 1761485602.1587453,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.12127280235290527,
+      "elapsed_time": 28.290478706359863
+    },
+    {
+      "timestamp": 1761485602.797074,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.6383287906646729,
+      "elapsed_time": 28.928807497024536
+    },
+    {
+      "timestamp": 1761485603.6727307,
+      "key": "[shift]",
+      "readable_key": "[shift]",
+      "interval": 0.8756566047668457,
+      "elapsed_time": 29.804464101791382
+    },
+    {
+      "timestamp": 1761485604.0253813,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.35265064239501953,
+      "elapsed_time": 30.1571147441864
+    },
+    {
+      "timestamp": 1761485604.2108796,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.18549823760986328,
+      "elapsed_time": 30.342612981796265
+    },
+    {
+      "timestamp": 1761485604.3770883,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.16620874404907227,
+      "elapsed_time": 30.508821725845337
+    },
+    {
+      "timestamp": 1761485604.5535512,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.17646288871765137,
+      "elapsed_time": 30.68528461456299
+    },
+    {
+      "timestamp": 1761485604.7086833,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.15513205528259277,
+      "elapsed_time": 30.84041666984558
+    },
+    {
+      "timestamp": 1761485604.8849542,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.1762709617614746,
+      "elapsed_time": 31.016687631607056
+    },
+    {
+      "timestamp": 1761485605.0350337,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.15007948875427246,
+      "elapsed_time": 31.166767120361328
+    },
+    {
+      "timestamp": 1761485605.2064505,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.1714167594909668,
+      "elapsed_time": 31.338183879852295
+    },
+    {
+      "timestamp": 1761485605.342031,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.13558053970336914,
+      "elapsed_time": 31.473764419555664
+    },
+    {
+      "timestamp": 1761485605.498364,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.15633296966552734,
+      "elapsed_time": 31.63009738922119
+    },
+    {
+      "timestamp": 1761485605.6442335,
+      "key": "!",
+      "readable_key": "!",
+      "interval": 0.14586949348449707,
+      "elapsed_time": 31.77596688270569
+    },
+    {
+      "timestamp": 1761485607.349772,
+      "key": "k",
+      "readable_key": "k",
+      "interval": 1.7055385112762451,
+      "elapsed_time": 33.481505393981934
+    },
+    {
+      "timestamp": 1761485607.61095,
+      "key": "l",
+      "readable_key": "l",
+      "interval": 0.26117801666259766,
+      "elapsed_time": 33.74268341064453
+    },
+    {
+      "timestamp": 1761485608.2279456,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.6169955730438232,
+      "elapsed_time": 34.359678983688354
+    },
+    {
+      "timestamp": 1761485608.817708,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.5897624492645264,
+      "elapsed_time": 34.94944143295288
+    },
+    {
+      "timestamp": 1761485609.1735952,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.35588717460632324,
+      "elapsed_time": 35.305328607559204
+    },
+    {
+      "timestamp": 1761485609.366379,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.19278383255004883,
+      "elapsed_time": 35.49811244010925
+    },
+    {
+      "timestamp": 1761485610.481778,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 1.11539888381958,
+      "elapsed_time": 36.61351132392883
+    },
+    {
+      "timestamp": 1761485610.7230406,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.24126267433166504,
+      "elapsed_time": 36.8547739982605
+    },
+    {
+      "timestamp": 1761485610.8485515,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.12551093101501465,
+      "elapsed_time": 36.98028492927551
+    },
+    {
+      "timestamp": 1761485610.990118,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.14156651496887207,
+      "elapsed_time": 37.121851444244385
+    },
+    {
+      "timestamp": 1761485611.1776056,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.18748760223388672,
+      "elapsed_time": 37.30933904647827
+    },
+    {
+      "timestamp": 1761485611.3910615,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.2134559154510498,
+      "elapsed_time": 37.52279496192932
+    },
+    {
+      "timestamp": 1761485611.5093946,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.11833310127258301,
+      "elapsed_time": 37.641128063201904
+    },
+    {
+      "timestamp": 1761485611.920605,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.411210298538208,
+      "elapsed_time": 38.05233836174011
+    },
+    {
+      "timestamp": 1761485612.0771406,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.15653562545776367,
+      "elapsed_time": 38.208873987197876
+    },
+    {
+      "timestamp": 1761485612.6788197,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.6016790866851807,
+      "elapsed_time": 38.81055307388306
+    },
+    {
+      "timestamp": 1761485612.8006084,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.12178874015808105,
+      "elapsed_time": 38.93234181404114
+    },
+    {
+      "timestamp": 1761485613.459446,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.6588375568389893,
+      "elapsed_time": 39.59117937088013
+    },
+    {
+      "timestamp": 1761485613.635325,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.17587900161743164,
+      "elapsed_time": 39.76705837249756
+    },
+    {
+      "timestamp": 1761485613.7359421,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.1006171703338623,
+      "elapsed_time": 39.86767554283142
+    },
+    {
+      "timestamp": 1761485613.8323784,
+      "key": "v",
+      "readable_key": "v",
+      "interval": 0.0964362621307373,
+      "elapsed_time": 39.96411180496216
+    },
+    {
+      "timestamp": 1761485613.9029324,
+      "key": "v",
+      "readable_key": "v",
+      "interval": 0.07055401802062988,
+      "elapsed_time": 40.03466582298279
+    },
+    {
+      "timestamp": 1761485614.0182493,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.11531686782836914,
+      "elapsed_time": 40.14998269081116
+    },
+    {
+      "timestamp": 1761485614.2043133,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.1860640048980713,
+      "elapsed_time": 40.33604669570923
+    },
+    {
+      "timestamp": 1761485614.3059447,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.10163140296936035,
+      "elapsed_time": 40.43767809867859
+    },
+    {
+      "timestamp": 1761485614.4100194,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.10407471656799316,
+      "elapsed_time": 40.54175281524658
+    },
+    {
+      "timestamp": 1761485614.5062943,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.09627485275268555,
+      "elapsed_time": 40.63802766799927
+    },
+    {
+      "timestamp": 1761485615.2907863,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.784492015838623,
+      "elapsed_time": 41.42251968383789
+    },
+    {
+      "timestamp": 1761485615.5527902,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.26200389862060547,
+      "elapsed_time": 41.684523582458496
+    },
+    {
+      "timestamp": 1761485616.0701277,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.5173375606536865,
+      "elapsed_time": 42.20186114311218
+    },
+    {
+      "timestamp": 1761485616.2138157,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.14368796348571777,
+      "elapsed_time": 42.3455491065979
+    },
+    {
+      "timestamp": 1761485616.8890724,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.6752567291259766,
+      "elapsed_time": 43.02080583572388
+    },
+    {
+      "timestamp": 1761485617.033151,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.14407849311828613,
+      "elapsed_time": 43.16488432884216
+    },
+    {
+      "timestamp": 1761485617.1589122,
+      "key": "p",
+      "readable_key": "p",
+      "interval": 0.1257612705230713,
+      "elapsed_time": 43.290645599365234
+    },
+    {
+      "timestamp": 1761485617.2801857,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.12127351760864258,
+      "elapsed_time": 43.41191911697388
+    },
+    {
+      "timestamp": 1761485636.461778,
+      "key": "[ctrl_l]",
+      "readable_key": "[ctrl_l]",
+      "interval": 19.181592226028442,
+      "elapsed_time": 62.59351134300232
+    },
+    {
+      "timestamp": 1761485636.6719933,
+      "key": "[right]",
+      "readable_key": "[right]",
+      "interval": 0.21021533012390137,
+      "elapsed_time": 62.80372667312622
+    },
+    {
+      "timestamp": 1761485636.8600092,
+      "key": "[right]",
+      "readable_key": "[right]",
+      "interval": 0.18801593780517578,
+      "elapsed_time": 62.9917426109314
+    },
+    {
+      "timestamp": 1761485636.996129,
+      "key": "[right]",
+      "readable_key": "[right]",
+      "interval": 0.13611984252929688,
+      "elapsed_time": 63.12786245346069
+    },
+    {
+      "timestamp": 1761485637.6269355,
+      "key": "[left]",
+      "readable_key": "[left]",
+      "interval": 0.6308064460754395,
+      "elapsed_time": 63.75866889953613
+    },
+    {
+      "timestamp": 1761485637.8423486,
+      "key": "[right]",
+      "readable_key": "[right]",
+      "interval": 0.21541309356689453,
+      "elapsed_time": 63.97408199310303
+    },
+    {
+      "timestamp": 1761485638.538122,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.6957733631134033,
+      "elapsed_time": 64.66985535621643
+    },
+    {
+      "timestamp": 1761485643.5369816,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 4.998859643936157,
+      "elapsed_time": 69.66871500015259
+    },
+    {
+      "timestamp": 1761485643.999204,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.4622223377227783,
+      "elapsed_time": 70.13093733787537
+    },
+    {
+      "timestamp": 1761485644.1561115,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.1569075584411621,
+      "elapsed_time": 70.28784489631653
+    },
+    {
+      "timestamp": 1761485644.2727895,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.11667799949645996,
+      "elapsed_time": 70.40452289581299
+    },
+    {
+      "timestamp": 1761485644.3672526,
+      "key": "d",
+      "readable_key": "d",
+      "interval": 0.09446310997009277,
+      "elapsed_time": 70.49898600578308
+    },
+    {
+      "timestamp": 1761485644.4570756,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.08982300758361816,
+      "elapsed_time": 70.5888090133667
+    },
+    {
+      "timestamp": 1761485644.7136781,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.25660252571105957,
+      "elapsed_time": 70.84541153907776
+    },
+    {
+      "timestamp": 1761485645.1515093,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.43783116340637207,
+      "elapsed_time": 71.28324270248413
+    },
+    {
+      "timestamp": 1761485645.9761012,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.824591875076294,
+      "elapsed_time": 72.10783457756042
+    },
+    {
+      "timestamp": 1761485646.1420937,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.16599249839782715,
+      "elapsed_time": 72.27382707595825
+    },
+    {
+      "timestamp": 1761485646.3678439,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.22575020790100098,
+      "elapsed_time": 72.49957728385925
+    },
+    {
+      "timestamp": 1761485647.3691676,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 1.0013236999511719,
+      "elapsed_time": 73.50090098381042
+    },
+    {
+      "timestamp": 1761485647.5248518,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.155684232711792,
+      "elapsed_time": 73.65658521652222
+    },
+    {
+      "timestamp": 1761485648.0522995,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.5274477005004883,
+      "elapsed_time": 74.1840329170227
+    },
+    {
+      "timestamp": 1761485648.1826317,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.13033223152160645,
+      "elapsed_time": 74.31436514854431
+    },
+    {
+      "timestamp": 1761485648.3700194,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.18738770484924316,
+      "elapsed_time": 74.50175285339355
+    },
+    {
+      "timestamp": 1761485648.6397245,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.26970505714416504,
+      "elapsed_time": 74.77145791053772
+    },
+    {
+      "timestamp": 1761485648.7451873,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.10546278953552246,
+      "elapsed_time": 74.87692070007324
+    },
+    {
+      "timestamp": 1761485649.011807,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.2666196823120117,
+      "elapsed_time": 75.14354038238525
+    },
+    {
+      "timestamp": 1761485649.747058,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.7352509498596191,
+      "elapsed_time": 75.87879133224487
+    },
+    {
+      "timestamp": 1761485650.3852637,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.6382057666778564,
+      "elapsed_time": 76.51699709892273
+    },
+    {
+      "timestamp": 1761485650.5358877,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.15062403678894043,
+      "elapsed_time": 76.66762113571167
+    },
+    {
+      "timestamp": 1761485650.6975293,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.16164159774780273,
+      "elapsed_time": 76.82926273345947
+    },
+    {
+      "timestamp": 1761485650.9479492,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.25041985511779785,
+      "elapsed_time": 77.07968258857727
+    },
+    {
+      "timestamp": 1761485651.1699853,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.22203612327575684,
+      "elapsed_time": 77.30171871185303
+    },
+    {
+      "timestamp": 1761485651.3211532,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.1511678695678711,
+      "elapsed_time": 77.4528865814209
+    },
+    {
+      "timestamp": 1761485651.3759837,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.05483055114746094,
+      "elapsed_time": 77.50771713256836
+    },
+    {
+      "timestamp": 1761485651.521155,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.1451714038848877,
+      "elapsed_time": 77.65288853645325
+    },
+    {
+      "timestamp": 1761485651.7427776,
+      "key": "d",
+      "readable_key": "d",
+      "interval": 0.22162246704101562,
+      "elapsed_time": 77.87451100349426
+    },
+    {
+      "timestamp": 1761485652.0593843,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.3166067600250244,
+      "elapsed_time": 78.19111776351929
+    },
+    {
+      "timestamp": 1761485652.3611064,
+      "key": "w",
+      "readable_key": "w",
+      "interval": 0.30172204971313477,
+      "elapsed_time": 78.49283981323242
+    },
+    {
+      "timestamp": 1761485652.6371682,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.2760617733001709,
+      "elapsed_time": 78.76890158653259
+    },
+    {
+      "timestamp": 1761485652.7697923,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.13262414932250977,
+      "elapsed_time": 78.9015257358551
+    },
+    {
+      "timestamp": 1761485653.476647,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.7068545818328857,
+      "elapsed_time": 79.60838031768799
+    },
+    {
+      "timestamp": 1761485653.619503,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.14285612106323242,
+      "elapsed_time": 79.75123643875122
+    },
+    {
+      "timestamp": 1761485653.7346025,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.11509943008422852,
+      "elapsed_time": 79.86633586883545
+    },
+    {
+      "timestamp": 1761485653.7989883,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.06438589096069336,
+      "elapsed_time": 79.93072175979614
+    },
+    {
+      "timestamp": 1761485653.935346,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.13635754585266113,
+      "elapsed_time": 80.0670793056488
+    },
+    {
+      "timestamp": 1761485654.036192,
+      "key": "g",
+      "readable_key": "g",
+      "interval": 0.1008460521697998,
+      "elapsed_time": 80.1679253578186
+    },
+    {
+      "timestamp": 1761485654.111424,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.07523202896118164,
+      "elapsed_time": 80.24315738677979
+    },
+    {
+      "timestamp": 1761485654.6345687,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.5231447219848633,
+      "elapsed_time": 80.76630210876465
+    },
+    {
+      "timestamp": 1761485654.7351878,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.10061907768249512,
+      "elapsed_time": 80.86692118644714
+    },
+    {
+      "timestamp": 1761485654.859968,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.12478017807006836,
+      "elapsed_time": 80.99170136451721
+    },
+    {
+      "timestamp": 1761485654.9470215,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.08705353736877441,
+      "elapsed_time": 81.07875490188599
+    },
+    {
+      "timestamp": 1761485655.0628142,
+      "key": "w",
+      "readable_key": "w",
+      "interval": 0.11579275131225586,
+      "elapsed_time": 81.19454765319824
+    },
+    {
+      "timestamp": 1761485655.2232351,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.16042089462280273,
+      "elapsed_time": 81.35496854782104
+    },
+    {
+      "timestamp": 1761485656.229385,
+      "key": "b",
+      "readable_key": "b",
+      "interval": 1.0061497688293457,
+      "elapsed_time": 82.36111831665039
+    },
+    {
+      "timestamp": 1761485656.485864,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.25647902488708496,
+      "elapsed_time": 82.61759734153748
+    },
+    {
+      "timestamp": 1761485657.432106,
+      "key": "c",
+      "readable_key": "c",
+      "interval": 0.946242094039917,
+      "elapsed_time": 83.56383943557739
+    },
+    {
+      "timestamp": 1761485657.6456316,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.21352553367614746,
+      "elapsed_time": 83.77736496925354
+    },
+    {
+      "timestamp": 1761485657.8732195,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.22758793830871582,
+      "elapsed_time": 84.00495290756226
+    },
+    {
+      "timestamp": 1761485657.974081,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.1008615493774414,
+      "elapsed_time": 84.1058144569397
+    },
+    {
+      "timestamp": 1761485658.0995936,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.12551259994506836,
+      "elapsed_time": 84.23132705688477
+    },
+    {
+      "timestamp": 1761485658.3012373,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.201643705368042,
+      "elapsed_time": 84.43297076225281
+    },
+    {
+      "timestamp": 1761485658.6881738,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.3869364261627197,
+      "elapsed_time": 84.81990718841553
+    },
+    {
+      "timestamp": 1761485658.8826663,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.19449257850646973,
+      "elapsed_time": 85.014399766922
+    },
+    {
+      "timestamp": 1761485659.1455033,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.26283693313598633,
+      "elapsed_time": 85.27723670005798
+    },
+    {
+      "timestamp": 1761485659.327136,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.18163275718688965,
+      "elapsed_time": 85.45886945724487
+    },
+    {
+      "timestamp": 1761485660.3320894,
+      "key": "v",
+      "readable_key": "v",
+      "interval": 1.004953384399414,
+      "elapsed_time": 86.46382284164429
+    },
+    {
+      "timestamp": 1761485660.4916356,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.1595461368560791,
+      "elapsed_time": 86.62336897850037
+    },
+    {
+      "timestamp": 1761485660.552646,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.06101036071777344,
+      "elapsed_time": 86.68437933921814
+    },
+    {
+      "timestamp": 1761485660.764182,
+      "key": "b",
+      "readable_key": "b",
+      "interval": 0.21153616905212402,
+      "elapsed_time": 86.89591550827026
+    },
+    {
+      "timestamp": 1761485660.8401039,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.07592177391052246,
+      "elapsed_time": 86.97183728218079
+    },
+    {
+      "timestamp": 1761485660.9907491,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.15064525604248047,
+      "elapsed_time": 87.12248253822327
+    },
+    {
+      "timestamp": 1761485661.060713,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.06996393203735352,
+      "elapsed_time": 87.19244647026062
+    },
+    {
+      "timestamp": 1761485661.2913678,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.23065471649169922,
+      "elapsed_time": 87.42310118675232
+    },
+    {
+      "timestamp": 1761485661.4732296,
+      "key": "w",
+      "readable_key": "w",
+      "interval": 0.18186187744140625,
+      "elapsed_time": 87.60496306419373
+    },
+    {
+      "timestamp": 1761485661.5652387,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.09200906753540039,
+      "elapsed_time": 87.69697213172913
+    },
+    {
+      "timestamp": 1761485661.9194539,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.354215145111084,
+      "elapsed_time": 88.05118727684021
+    },
+    {
+      "timestamp": 1761485662.000365,
+      "key": "k",
+      "readable_key": "k",
+      "interval": 0.08091115951538086,
+      "elapsed_time": 88.13209843635559
+    },
+    {
+      "timestamp": 1761485662.1815512,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.18118619918823242,
+      "elapsed_time": 88.31328463554382
+    },
+    {
+      "timestamp": 1761485662.272056,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.09050488471984863,
+      "elapsed_time": 88.40378952026367
+    },
+    {
+      "timestamp": 1761485662.394755,
+      "key": "g",
+      "readable_key": "g",
+      "interval": 0.12269878387451172,
+      "elapsed_time": 88.52648830413818
+    },
+    {
+      "timestamp": 1761485662.462656,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.0679011344909668,
+      "elapsed_time": 88.59438943862915
+    },
+    {
+      "timestamp": 1761485663.4152021,
+      "key": "c",
+      "readable_key": "c",
+      "interval": 0.9525461196899414,
+      "elapsed_time": 89.54693555831909
+    },
+    {
+      "timestamp": 1761485663.5451465,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.1299443244934082,
+      "elapsed_time": 89.6768798828125
+    },
+    {
+      "timestamp": 1761485663.6709692,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.1258227825164795,
+      "elapsed_time": 89.80270266532898
+    },
+    {
+      "timestamp": 1761485663.7917259,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.12075662612915039,
+      "elapsed_time": 89.92345929145813
+    },
+    {
+      "timestamp": 1761485664.5410364,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.7493104934692383,
+      "elapsed_time": 90.67276978492737
+    },
+    {
+      "timestamp": 1761485664.596577,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.05554056167602539,
+      "elapsed_time": 90.7283103466034
+    },
+    {
+      "timestamp": 1761485664.746606,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.15002918243408203,
+      "elapsed_time": 90.87833952903748
+    },
+    {
+      "timestamp": 1761485664.9277773,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.18117117881774902,
+      "elapsed_time": 91.05951070785522
+    },
+    {
+      "timestamp": 1761485665.0997236,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.17194628715515137,
+      "elapsed_time": 91.23145699501038
+    },
+    {
+      "timestamp": 1761485665.2719564,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.17223286628723145,
+      "elapsed_time": 91.40368986129761
+    },
+    {
+      "timestamp": 1761485665.6113265,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.3393700122833252,
+      "elapsed_time": 91.74305987358093
+    },
+    {
+      "timestamp": 1761485665.7320626,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.12073612213134766,
+      "elapsed_time": 91.86379599571228
+    },
+    {
+      "timestamp": 1761485665.8188875,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.08682489395141602,
+      "elapsed_time": 91.9506208896637
+    },
+    {
+      "timestamp": 1761485666.0891426,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.27025508880615234,
+      "elapsed_time": 92.22087597846985
+    },
+    {
+      "timestamp": 1761485666.2961273,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.2069847583770752,
+      "elapsed_time": 92.42786073684692
+    },
+    {
+      "timestamp": 1761485666.5668063,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.2706789970397949,
+      "elapsed_time": 92.69853973388672
+    },
+    {
+      "timestamp": 1761485666.7149103,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.14810395240783691,
+      "elapsed_time": 92.84664368629456
+    },
+    {
+      "timestamp": 1761485666.774123,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.059212684631347656,
+      "elapsed_time": 92.9058563709259
+    },
+    {
+      "timestamp": 1761485666.97616,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.20203709602355957,
+      "elapsed_time": 93.10789346694946
+    },
+    {
+      "timestamp": 1761485667.492543,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.5163829326629639,
+      "elapsed_time": 93.62427639961243
+    },
+    {
+      "timestamp": 1761485667.5931516,
+      "key": "l",
+      "readable_key": "l",
+      "interval": 0.10060858726501465,
+      "elapsed_time": 93.72488498687744
+    },
+    {
+      "timestamp": 1761485667.7699103,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.1767587661743164,
+      "elapsed_time": 93.90164375305176
+    },
+    {
+      "timestamp": 1761485668.0250857,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.2551753520965576,
+      "elapsed_time": 94.15681910514832
+    },
+    {
+      "timestamp": 1761485668.6584067,
+      "key": "f",
+      "readable_key": "f",
+      "interval": 0.6333210468292236,
+      "elapsed_time": 94.79014015197754
+    },
+    {
+      "timestamp": 1761485668.7651937,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.10678696632385254,
+      "elapsed_time": 94.89692711830139
+    },
+    {
+      "timestamp": 1761485668.8892674,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.12407374382019043,
+      "elapsed_time": 95.02100086212158
+    },
+    {
+      "timestamp": 1761485669.0206413,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.13137388229370117,
+      "elapsed_time": 95.15237474441528
+    },
+    {
+      "timestamp": 1761485670.5253391,
+      "key": "2",
+      "readable_key": "2",
+      "interval": 1.5046977996826172,
+      "elapsed_time": 96.6570725440979
+    },
+    {
+      "timestamp": 1761485671.1327465,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.6074073314666748,
+      "elapsed_time": 97.26447987556458
+    },
+    {
+      "timestamp": 1761485671.394672,
+      "key": "w",
+      "readable_key": "w",
+      "interval": 0.26192545890808105,
+      "elapsed_time": 97.52640533447266
+    },
+    {
+      "timestamp": 1761485671.9269607,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.5322887897491455,
+      "elapsed_time": 98.0586941242218
+    },
+    {
+      "timestamp": 1761485672.8776164,
+      "key": "1",
+      "readable_key": "1",
+      "interval": 0.9506556987762451,
+      "elapsed_time": 99.00934982299805
+    },
+    {
+      "timestamp": 1761485673.0846121,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.20699572563171387,
+      "elapsed_time": 99.21634554862976
+    },
+    {
+      "timestamp": 1761485674.062534,
+      "key": "w",
+      "readable_key": "w",
+      "interval": 0.9779219627380371,
+      "elapsed_time": 100.1942675113678
+    },
+    {
+      "timestamp": 1761485674.2050483,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.14251422882080078,
+      "elapsed_time": 100.3367817401886
+    },
+    {
+      "timestamp": 1761485674.426823,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.22177457809448242,
+      "elapsed_time": 100.55855631828308
+    },
+    {
+      "timestamp": 1761485674.5226421,
+      "key": "k",
+      "readable_key": "k",
+      "interval": 0.09581923484802246,
+      "elapsed_time": 100.6543755531311
+    },
+    {
+      "timestamp": 1761485675.6516511,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 1.1290090084075928,
+      "elapsed_time": 101.7833845615387
+    },
+    {
+      "timestamp": 1761485676.8451135,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 1.1934623718261719,
+      "elapsed_time": 102.97684693336487
+    },
+    {
+      "timestamp": 1761485677.110197,
+      "key": ".",
+      "readable_key": ".",
+      "interval": 0.26508355140686035,
+      "elapsed_time": 103.24193048477173
+    },
+    {
+      "timestamp": 1761485677.3658445,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.2556474208831787,
+      "elapsed_time": 103.49757790565491
+    },
+    {
+      "timestamp": 1761485677.4911518,
+      "key": "[shift]",
+      "readable_key": "[shift]",
+      "interval": 0.12530732154846191,
+      "elapsed_time": 103.62288522720337
+    },
+    {
+      "timestamp": 1761485677.5727599,
+      "key": "L",
+      "readable_key": "L",
+      "interval": 0.08160805702209473,
+      "elapsed_time": 103.70449328422546
+    },
+    {
+      "timestamp": 1761485677.6900492,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.11728930473327637,
+      "elapsed_time": 103.82178258895874
+    },
+    {
+      "timestamp": 1761485677.810798,
+      "key": "f",
+      "readable_key": "f",
+      "interval": 0.12074875831604004,
+      "elapsed_time": 103.94253134727478
+    },
+    {
+      "timestamp": 1761485678.2186456,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.40784764289855957,
+      "elapsed_time": 104.35037899017334
+    },
+    {
+      "timestamp": 1761485678.3804822,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.1618366241455078,
+      "elapsed_time": 104.51221561431885
+    },
+    {
+      "timestamp": 1761485678.462098,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.08161568641662598,
+      "elapsed_time": 104.59383130073547
+    },
+    {
+      "timestamp": 1761485678.5853558,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.12325787544250488,
+      "elapsed_time": 104.71708917617798
+    },
+    {
+      "timestamp": 1761485678.6183817,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.03302597999572754,
+      "elapsed_time": 104.7501151561737
+    },
+    {
+      "timestamp": 1761485679.772367,
+      "key": "j",
+      "readable_key": "j",
+      "interval": 1.1539852619171143,
+      "elapsed_time": 105.90410041809082
+    },
+    {
+      "timestamp": 1761485679.9661183,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.19375133514404297,
+      "elapsed_time": 106.09785175323486
+    },
+    {
+      "timestamp": 1761485680.013487,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.047368764877319336,
+      "elapsed_time": 106.14522051811218
+    },
+    {
+      "timestamp": 1761485680.1334286,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.11994147300720215,
+      "elapsed_time": 106.26516199111938
+    },
+    {
+      "timestamp": 1761485680.2496777,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.11624908447265625,
+      "elapsed_time": 106.38141107559204
+    },
+    {
+      "timestamp": 1761485680.5464175,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.2967398166656494,
+      "elapsed_time": 106.67815089225769
+    },
+    {
+      "timestamp": 1761485680.7270288,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.18061137199401855,
+      "elapsed_time": 106.85876226425171
+    },
+    {
+      "timestamp": 1761485680.810991,
+      "key": "f",
+      "readable_key": "f",
+      "interval": 0.08396220207214355,
+      "elapsed_time": 106.94272446632385
+    },
+    {
+      "timestamp": 1761485680.9486442,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.13765311241149902,
+      "elapsed_time": 107.08037757873535
+    },
+    {
+      "timestamp": 1761485680.9993641,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.0507199764251709,
+      "elapsed_time": 107.13109755516052
+    },
+    {
+      "timestamp": 1761485681.1330454,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.1336812973022461,
+      "elapsed_time": 107.26477885246277
+    },
+    {
+      "timestamp": 1761485681.2646623,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.13161683082580566,
+      "elapsed_time": 107.39639568328857
+    },
+    {
+      "timestamp": 1761485681.579784,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.3151216506958008,
+      "elapsed_time": 107.71151733398438
+    },
+    {
+      "timestamp": 1761485681.6762364,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.09645247459411621,
+      "elapsed_time": 107.80796980857849
+    },
+    {
+      "timestamp": 1761485681.8012054,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.1249690055847168,
+      "elapsed_time": 107.93293881416321
+    },
+    {
+      "timestamp": 1761485681.90513,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.10392451286315918,
+      "elapsed_time": 108.03686332702637
+    },
+    {
+      "timestamp": 1761485682.053015,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.14788508415222168,
+      "elapsed_time": 108.18474841117859
+    },
+    {
+      "timestamp": 1761485682.1337764,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.08076143264770508,
+      "elapsed_time": 108.2655098438263
+    },
+    {
+      "timestamp": 1761485682.394836,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.2610595226287842,
+      "elapsed_time": 108.52656936645508
+    },
+    {
+      "timestamp": 1761485682.4853876,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.09055161476135254,
+      "elapsed_time": 108.61712098121643
+    },
+    {
+      "timestamp": 1761485682.5806756,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.09528803825378418,
+      "elapsed_time": 108.71240901947021
+    },
+    {
+      "timestamp": 1761485684.2096243,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 1.62894868850708,
+      "elapsed_time": 110.3413577079773
+    },
+    {
+      "timestamp": 1761485684.3608043,
+      "key": "w",
+      "readable_key": "w",
+      "interval": 0.15118002891540527,
+      "elapsed_time": 110.4925377368927
+    },
+    {
+      "timestamp": 1761485684.4968503,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.1360459327697754,
+      "elapsed_time": 110.62858366966248
+    },
+    {
+      "timestamp": 1761485684.617422,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.12057185173034668,
+      "elapsed_time": 110.74915552139282
+    },
+    {
+      "timestamp": 1761485684.7522318,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.1348097324371338,
+      "elapsed_time": 110.88396525382996
+    },
+    {
+      "timestamp": 1761485684.944018,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.1917860507965088,
+      "elapsed_time": 111.07575130462646
+    },
+    {
+      "timestamp": 1761485685.1507711,
+      "key": "y",
+      "readable_key": "y",
+      "interval": 0.20675325393676758,
+      "elapsed_time": 111.28250455856323
+    },
+    {
+      "timestamp": 1761485685.2609391,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.1101679801940918,
+      "elapsed_time": 111.39267253875732
+    },
+    {
+      "timestamp": 1761485685.3361235,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.07518434524536133,
+      "elapsed_time": 111.46785688400269
+    },
+    {
+      "timestamp": 1761485685.4266503,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.09052681922912598,
+      "elapsed_time": 111.55838370323181
+    },
+    {
+      "timestamp": 1761485687.960078,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 2.5334277153015137,
+      "elapsed_time": 114.09181141853333
+    },
+    {
+      "timestamp": 1761485688.1210608,
+      "key": "h",
+      "readable_key": "h",
+      "interval": 0.16098284721374512,
+      "elapsed_time": 114.25279426574707
+    },
+    {
+      "timestamp": 1761485688.981491,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.8604302406311035,
+      "elapsed_time": 115.11322450637817
+    },
+    {
+      "timestamp": 1761485689.2537134,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.27222228050231934,
+      "elapsed_time": 115.3854467868805
+    },
+    {
+      "timestamp": 1761485689.409488,
+      "key": "k",
+      "readable_key": "k",
+      "interval": 0.15577459335327148,
+      "elapsed_time": 115.54122138023376
+    },
+    {
+      "timestamp": 1761485689.620475,
+      "key": "g",
+      "readable_key": "g",
+      "interval": 0.21098709106445312,
+      "elapsed_time": 115.75220847129822
+    },
+    {
+      "timestamp": 1761485690.2233744,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.6028993129730225,
+      "elapsed_time": 116.35510778427124
+    },
+    {
+      "timestamp": 1761485690.3836935,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.16031908988952637,
+      "elapsed_time": 116.51542687416077
+    },
+    {
+      "timestamp": 1761485690.4997823,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.1160888671875,
+      "elapsed_time": 116.63151574134827
+    },
+    {
+      "timestamp": 1761485690.58592,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.08613777160644531,
+      "elapsed_time": 116.71765351295471
+    },
+    {
+      "timestamp": 1761485690.696852,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.1109318733215332,
+      "elapsed_time": 116.82858538627625
+    },
+    {
+      "timestamp": 1761485690.8569877,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.16013574600219727,
+      "elapsed_time": 116.98872113227844
+    },
+    {
+      "timestamp": 1761485691.516025,
+      "key": "d",
+      "readable_key": "d",
+      "interval": 0.6590373516082764,
+      "elapsed_time": 117.64775848388672
+    },
+    {
+      "timestamp": 1761485691.6765947,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.1605696678161621,
+      "elapsed_time": 117.80832815170288
+    },
+    {
+      "timestamp": 1761485691.8316975,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.15510272979736328,
+      "elapsed_time": 117.96343088150024
+    },
+    {
+      "timestamp": 1761485691.9574685,
+      "key": "p",
+      "readable_key": "p",
+      "interval": 0.12577104568481445,
+      "elapsed_time": 118.08920192718506
+    },
+    {
+      "timestamp": 1761485692.1696737,
+      "key": ".",
+      "readable_key": ".",
+      "interval": 0.212205171585083,
+      "elapsed_time": 118.30140709877014
+    },
+    {
+      "timestamp": 1761485702.5896814,
+      "key": "[shift]",
+      "readable_key": "[shift]",
+      "interval": 10.420007705688477,
+      "elapsed_time": 128.72141480445862
+    },
+    {
+      "timestamp": 1761485702.7147245,
+      "key": "C",
+      "readable_key": "C",
+      "interval": 0.12504315376281738,
+      "elapsed_time": 128.84645795822144
+    },
+    {
+      "timestamp": 1761485702.9425328,
+      "key": "a",
+      "readable_key": "a",
+      "interval": 0.22780823707580566,
+      "elapsed_time": 129.07426619529724
+    },
+    {
+      "timestamp": 1761485703.0265808,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.08404803276062012,
+      "elapsed_time": 129.15831422805786
+    },
+    {
+      "timestamp": 1761485703.201852,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.17527127265930176,
+      "elapsed_time": 129.33358550071716
+    },
+    {
+      "timestamp": 1761485703.5100043,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.3081521987915039,
+      "elapsed_time": 129.64173769950867
+    },
+    {
+      "timestamp": 1761485703.6548283,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.14482402801513672,
+      "elapsed_time": 129.7865617275238
+    },
+    {
+      "timestamp": 1761485703.9323618,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.27753353118896484,
+      "elapsed_time": 130.06409525871277
+    },
+    {
+      "timestamp": 1761485704.0683706,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.13600873947143555,
+      "elapsed_time": 130.2001039981842
+    },
+    {
+      "timestamp": 1761485704.2136996,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.14532899856567383,
+      "elapsed_time": 130.34543299674988
+    },
+    {
+      "timestamp": 1761485704.7372448,
+      "key": "p",
+      "readable_key": "p",
+      "interval": 0.5235452651977539,
+      "elapsed_time": 130.86897826194763
+    },
+    {
+      "timestamp": 1761485704.9418936,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.20464873313903809,
+      "elapsed_time": 131.07362699508667
+    },
+    {
+      "timestamp": 1761485706.0838892,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 1.1419956684112549,
+      "elapsed_time": 132.21562266349792
+    },
+    {
+      "timestamp": 1761485706.224238,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.1403486728668213,
+      "elapsed_time": 132.35597133636475
+    },
+    {
+      "timestamp": 1761485706.3453789,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.12114095687866211,
+      "elapsed_time": 132.4771122932434
+    },
+    {
+      "timestamp": 1761485706.567185,
+      "key": "b",
+      "readable_key": "b",
+      "interval": 0.22180604934692383,
+      "elapsed_time": 132.69891834259033
+    },
+    {
+      "timestamp": 1761485706.740196,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.17301106452941895,
+      "elapsed_time": 132.87192940711975
+    },
+    {
+      "timestamp": 1761485706.839488,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.09929203987121582,
+      "elapsed_time": 132.97122144699097
+    },
+    {
+      "timestamp": 1761485707.2658765,
+      "key": "[backspace]",
+      "readable_key": "[backspace]",
+      "interval": 0.4263885021209717,
+      "elapsed_time": 133.39760994911194
+    },
+    {
+      "timestamp": 1761485707.3218899,
+      "key": "f",
+      "readable_key": "f",
+      "interval": 0.05601334571838379,
+      "elapsed_time": 133.45362329483032
+    },
+    {
+      "timestamp": 1761485707.4924538,
+      "key": "o",
+      "readable_key": "o",
+      "interval": 0.1705639362335205,
+      "elapsed_time": 133.62418723106384
+    },
+    {
+      "timestamp": 1761485707.5526175,
+      "key": "r",
+      "readable_key": "r",
+      "interval": 0.06016373634338379,
+      "elapsed_time": 133.68435096740723
+    },
+    {
+      "timestamp": 1761485707.6976144,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.14499688148498535,
+      "elapsed_time": 133.8293478488922
+    },
+    {
+      "timestamp": 1761485707.8946373,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.1970229148864746,
+      "elapsed_time": 134.0263707637787
+    },
+    {
+      "timestamp": 1761485708.664043,
+      "key": "5",
+      "readable_key": "5",
+      "interval": 0.7694056034088135,
+      "elapsed_time": 134.7957763671875
+    },
+    {
+      "timestamp": 1761485708.7643847,
+      "key": "[space]",
+      "readable_key": "[space]",
+      "interval": 0.100341796875,
+      "elapsed_time": 134.8961181640625
+    },
+    {
+      "timestamp": 1761485708.860079,
+      "key": "m",
+      "readable_key": "m",
+      "interval": 0.09569430351257324,
+      "elapsed_time": 134.99181246757507
+    },
+    {
+      "timestamp": 1761485709.0262694,
+      "key": "i",
+      "readable_key": "i",
+      "interval": 0.16619038581848145,
+      "elapsed_time": 135.15800285339355
+    },
+    {
+      "timestamp": 1761485709.1413445,
+      "key": "n",
+      "readable_key": "n",
+      "interval": 0.11507511138916016,
+      "elapsed_time": 135.27307796478271
+    },
+    {
+      "timestamp": 1761485709.333695,
+      "key": "u",
+      "readable_key": "u",
+      "interval": 0.1923503875732422,
+      "elapsed_time": 135.46542835235596
+    },
+    {
+      "timestamp": 1761485709.4031372,
+      "key": "t",
+      "readable_key": "t",
+      "interval": 0.0694422721862793,
+      "elapsed_time": 135.53487062454224
+    },
+    {
+      "timestamp": 1761485709.528735,
+      "key": "e",
+      "readable_key": "e",
+      "interval": 0.12559771537780762,
+      "elapsed_time": 135.66046833992004
+    },
+    {
+      "timestamp": 1761485709.6194577,
+      "key": "s",
+      "readable_key": "s",
+      "interval": 0.09072279930114746,
+      "elapsed_time": 135.7511911392212
+    },
+    {
+      "timestamp": 1761485709.9562209,
+      "key": "[shift]",
+      "readable_key": "[shift]",
+      "interval": 0.3367631435394287,
+      "elapsed_time": 136.08795428276062
+    },
+    {
+      "timestamp": 1761485710.1268024,
+      "key": ">",
+      "readable_key": ">",
+      "interval": 0.17058157920837402,
+      "elapsed_time": 136.258535861969
+    },
+    {
+      "timestamp": 1761485710.3631446,
+      "key": "[enter]",
+      "readable_key": "[enter]",
+      "interval": 0.236342191696167,
+      "elapsed_time": 136.49487805366516
+    },
+    {
+      "timestamp": 1761485736.7058008,
+      "key": "[alt_l]",
+      "readable_key": "[alt_l]",
+      "interval": 26.342656135559082,
+      "elapsed_time": 162.83753418922424
+    },
+    {
+      "timestamp": 1761485736.7861907,
+      "key": "[tab]",
+      "readable_key": "[tab]",
+      "interval": 0.08038997650146484,
+      "elapsed_time": 162.9179241657257
+    },
+    {
+      "timestamp": 1761485741.84961,
+      "key": "[esc]",
+      "readable_key": "[esc]",
+      "interval": 5.063419342041016,
+      "elapsed_time": 167.98134350776672
+    }
+  ],
+  "typed_text": "[shift]hey my name is mujeeb and i am here typing for my keylogger. [shift]THis is my latest project and i am happy to share it with you guys[shift]!!!!!!!!!!! it says  i havve to type[ctrl_l][right][right][right][left][right] and um i am tired right now because i have been working consistantly for 1 week. [shift]Life is just unfair sometimes when you think too deep.[shift]Can i stop it before 5 minutes[shift]>\n[alt_l]\t[esc]"
+}
