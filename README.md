@@ -39,7 +39,7 @@ A secure, ethical, and privacy-respecting cybersecurity research tool that analy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/keystroke-dynamics-analyzer.git
+git clone https://github.com/rhmujib/keystroke-dynamics.git
 cd keystroke-dynamics-analyzer
 ```
 
